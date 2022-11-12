@@ -1,5 +1,5 @@
 {
-  "name": "@local/check-dir",
+  "name": "@rvasiliy/check-dir",
   "version": "0.0.1",
   "description": "Check if directory existing",
   "bin": {
