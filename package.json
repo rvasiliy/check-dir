@@ -3,10 +3,14 @@
   "version": "0.0.1",
   "description": "Check directory on existing",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {},
   "keywords": [],
   "author": {
     "name": "Repkin Vasiliy"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
