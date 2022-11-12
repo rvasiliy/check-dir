@@ -1,16 +1,29 @@
 {
-  "name": "check-dir",
+  "name": "@local/check-dir",
   "version": "0.0.1",
-  "description": "Check directory on existing",
+  "description": "Check if directory existing",
+  "bin": {
+    "checkdir": "bin/checkdir.js"
+  },
   "main": "src/index.js",
   "type": "module",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "check",
+    "directory"
+  ],
   "author": {
     "name": "Repkin Vasiliy"
   },
   "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  },
   "devDependencies": {
     "prettier": "^2.7.1"
+  },
+  "engines": {
+    "node": ">=13"
   }
 }
