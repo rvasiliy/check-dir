@@ -11,7 +11,7 @@ Check a path if this is directory
 ## Use in javascript
 
 ```javascript
-import { checkDirectory } from '@rvasiliy/check-dir';
+import { checkDirectory } from 'rvasiliy-check-dir';
 
 try {
     const path = '/'; // must by absolute
