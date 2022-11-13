@@ -1,6 +1,6 @@
 {
   "name": "rvasiliy-check-dir",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check if directory existing",
   "bin": {
     "checkdir": "bin/checkdir.js"
