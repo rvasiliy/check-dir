@@ -2,6 +2,10 @@
   "name": "rvasiliy-check-dir",
   "version": "0.0.2",
   "description": "Check if directory existing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvasiliy/check-dir.git"
+  },
   "bin": {
     "checkdir": "bin/checkdir.js"
   },
